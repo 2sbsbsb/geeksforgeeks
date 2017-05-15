@@ -1,4 +1,4 @@
-package arrays;
+package ds.arrays;
 
 import java.util.Arrays;
 
