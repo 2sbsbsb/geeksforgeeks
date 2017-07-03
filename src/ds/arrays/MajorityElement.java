@@ -10,7 +10,7 @@ import java.util.Scanner;
  */
 public class MajorityElement {
 
-	
+	// Comment
 	public static void main (String[] args) {
 		// Input the number of test cases you want to run
         Scanner sc = new Scanner(System.in);
